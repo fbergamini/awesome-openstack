@@ -1,8 +1,6 @@
-# Informações sobre OpenStack
+# O que é o OpenStack
 
-[Site oficial do OpenStack](https://www.openstack.org/)
-
-## O que é o OpenStack
+[![OpenStack](https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjwxv_Zlb7XAhVGG5AKHbLQDq0QjRwIBw&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fopenstack&psig=AOvVaw3gaE7o3ukRmSvDkyEuxiQp&ust=1510752469689982)](https://www.openstack.org/)
 
 O OpenStack foi criado em 2010 pela união de um projeto da Rackspace com um projeto da NASA. Sua missão, de acordo com o site oficial, é de produzir uma plataforma de Open Source Cloud Computing ubíqua para atender as necessidades de serviços *cloud* públicos e privados independente de seu tamanho, sendo simples de implementar e massivamente escalável. 
 
