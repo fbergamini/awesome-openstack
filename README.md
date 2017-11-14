@@ -1,10 +1,12 @@
-# Informações sobre Openstack
+# Informações sobre OpenStack
 
-[Site oficial do Openstack](https://www.openstack.org/)
+[Site oficial do OpenStack](https://www.openstack.org/)
 
-## O que é o Openstack
+## O que é o OpenStack
 
-É possível dizer, de forma resumida, que o Openstack é um sistema operacional da nuvem. Se trata de uma combinação de projetos (ferramentas) de código aberto que servem para criar e gerencias *clouds* tanto públicas como privadas. Esses projetos são divididos em 9 categorias:
+O OpenStack foi criado em 2010 pela união de um projeto da Rackspace com um projeto da NASA. Sua missão, de acordo com o site oficial, é de produzir uma plataforma de Open Source Cloud Computing ubíqua para atender as necessidades de serviços *cloud* públicos e privados independente de seu tamanho, sendo simples de implementar e massivamente escalável. 
+
+É possível dizer, de forma resumida, que o OpenStack é um sistema operacional da nuvem. Se trata de uma combinação de projetos (ferramentas) de código aberto que servem para criar e gerenciar *clouds* tanto públicas como privadas. Esses projetos são divididos em 9 categorias:
 
 * Compute (Computacional)
 * Storage, Backup & Recovery (Armazenamento, [Backup](https://pt.wikipedia.org/wiki/C%C3%B3pia_de_seguran%C3%A7a) e Recuperação)
@@ -47,3 +49,5 @@ Mais informações sobre o Openstack podem ser encontradas nos links abaixo:
   * [Introduction to OpenStack](https://www.youtube.com/watch?v=idyiZAz1PK8)
   * [What is Openstack](https://www.youtube.com/watch?v=Kfj5XiNdJN0)
   * [Openstack Foundation Channel](https://www.youtube.com/channel/UCQ74G2gKXdpwZkXEsclzcrA)
+  
+
