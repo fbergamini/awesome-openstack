@@ -1,4 +1,4 @@
-O que é o OpenStack e como pode ajudar você?
+# O que é o OpenStack e como pode ajudar você?
 
 O OpenStack é um software Open Source que você pode instalar em vários servidores
 e serve para agregar uma camada de orquestração (uma camada de gerenciamento 
@@ -11,7 +11,7 @@ Você pode fazer uma arquitetura com um controller, um network node e 1 ou mais
 compute nodes, nesse caso cada um desses servidores ficaria responsável por um ou
 mais serviços.
 
-CONTROLLER
+## CONTROLLER
 
 Serviço de mensageria: (ex: RabbitMq) que é responsável por administrar as filas 
 de mensagens trocadas entre todos os serviços do OpenStack.
@@ -27,14 +27,14 @@ dedicado, como glance (serviço de imagens), Cinder (block storage), Ceilometer
 em nodes dedicados, pois o OpenStack é como se fosse um quebra-cabeças, você instala
 os serviços e conecta um com o outro.
 
-NETWORK NODE
+## NETWORK NODE
 
 Serviço de Rede: Neutron – Esse serviço pode ser instalado em um servidor separado
 (ou mais de um servidor configurados em HA), ele é responsável por fornecer os 
 recursos de rede para a nuvem (interfaces, firewall, load balance, vpn, portas L2, 
 etc).
 
-COMPUTE NODES
+## COMPUTE NODES
 
 Esses nodes são responsáveis por toda a parte de computação, ou seja, por hospedar
 as instâncias (máquinas virtuais). O serviço que gerencia as instâncias e interage
