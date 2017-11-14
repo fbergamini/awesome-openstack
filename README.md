@@ -18,36 +18,36 @@ O OpenStack foi criado em 2010 pela união de um projeto da Rackspace com um pro
 * Application Services (Serviços de Aplicação)
 * Monitoring & Metering (Monitoramento e Medição)
 
-A lista completa de projetos e suas respectivas categorias pode ser encontrada no [site oficial do Openstack](https://www.openstack.org/software/project-navigator/).
+A lista completa de projetos e suas respectivas categorias pode ser encontrada no [site oficial do OpenStack](https://www.openstack.org/software/project-navigator/).
 
-Mais informações sobre o Openstack podem ser encontradas nos links abaixo:
+Mais informações sobre o OpenStack podem ser encontradas nos links abaixo:
 
 * Português
   * [Wikipédia](https://pt.wikipedia.org/wiki/Openstack)
   * [redhat](https://www.redhat.com/pt-br/topics/openstack)
   * [IBM](https://www.ibm.com/developerworks/br/cloud/library/cl-openstack-cloud/index.html)
-  * [Comunidade Openstack Brasil](http://www.openstackbr.com.br/)
+  * [Comunidade OpenStack Brasil](http://www.openstackbr.com.br/)
 * Inglês
   * [Wikipedia](https://en.wikipedia.org/wiki/OpenStack)
   * [redhat](https://www.redhat.com/en/topics/openstack)
   * [IBM](https://www.ibm.com/blogs/cloud-computing/2014/08/quick-overview-openstack-technology/)
   * [opensource](https://opensource.com/resources/what-is-openstack)
-  * [Official Openstack Community](https://www.openstack.org/community/)
+  * [Official OpenStack Community](https://www.openstack.org/community/)
   
 ### Vídeos sobre Openstack
 
 * Português
   * [O Por Quê e o Pra Quê de OpenStack](https://www.youtube.com/watch?v=wDva0EJ7JO0)
-  * [Palestra: Do Zero ao Openstack](https://www.youtube.com/watch?v=M8txc5-NGMQ)
-  * [Introdução ao Openstack Cloud Platform](https://www.youtube.com/watch?v=7Z1sjc1cXFo)
-  * [Convergindo a estrutura atual de virtualização para Openstack](https://www.youtube.com/watch?v=_B--i9j4LjM)
-  * [Palestra de Introdução Openstack](https://www.youtube.com/watch?v=SlXT41hrGMM)
-  * [Canal Openstack Brasil](https://www.youtube.com/channel/UC4bH5DEz_c_syBrosklnknQ/videos)
+  * [Palestra: Do Zero ao OpenStack](https://www.youtube.com/watch?v=M8txc5-NGMQ)
+  * [Introdução ao OpenStack Cloud Platform](https://www.youtube.com/watch?v=7Z1sjc1cXFo)
+  * [Convergindo a estrutura atual de virtualização para OpenStack](https://www.youtube.com/watch?v=_B--i9j4LjM)
+  * [Palestra de Introdução OpenStack](https://www.youtube.com/watch?v=SlXT41hrGMM)
+  * [Canal OpenStack Brasil](https://www.youtube.com/channel/UC4bH5DEz_c_syBrosklnknQ/videos)
 * Inglês
-  * [Openstack 101 - What is Openstack?](https://www.youtube.com/watch?v=Qz5gyDenqTI)
+  * [OpenStack 101 - What is OpenStack?](https://www.youtube.com/watch?v=Qz5gyDenqTI)
   * [Getting Started With OpenStack](https://www.youtube.com/watch?v=-xsvYo0_cZg)
   * [Introduction to OpenStack](https://www.youtube.com/watch?v=idyiZAz1PK8)
-  * [What is Openstack](https://www.youtube.com/watch?v=Kfj5XiNdJN0)
-  * [Openstack Foundation Channel](https://www.youtube.com/channel/UCQ74G2gKXdpwZkXEsclzcrA)
+  * [What is OpenStack](https://www.youtube.com/watch?v=Kfj5XiNdJN0)
+  * [OpenStack Foundation Channel](https://www.youtube.com/channel/UCQ74G2gKXdpwZkXEsclzcrA)
   
 
