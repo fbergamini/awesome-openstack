@@ -1,4 +1,6 @@
-# Lista de informações sobre Openstack
+# Informações sobre Openstack
+
+[Site oficial do Openstack](https://www.openstack.org/)
 
 ## O que é o OpenStack
 
@@ -15,3 +17,17 @@
 * Monitoring & Metering (Monitoramento e Medição)
 
 A lista completa de projetos e suas respectivas categorias pode ser encontrada no [site oficial do Openstack](https://www.openstack.org/software/project-navigator/).
+
+Mais informações sobre o Openstack podem ser encontradas nos links abaixo:
+
+* Português
+  * [Wikipédia](https://pt.wikipedia.org/wiki/Openstack)
+  * [redhat](https://www.redhat.com/pt-br/topics/openstack)
+  * [IBM](https://www.ibm.com/developerworks/br/cloud/library/cl-openstack-cloud/index.html)
+  * [Comunidade Openstack Brasil](http://www.openstackbr.com.br/)
+* Inglês
+  * [Wikipedia](https://en.wikipedia.org/wiki/OpenStack)
+  * [redhat](https://www.redhat.com/en/topics/openstack)
+  * [IBM](https://www.ibm.com/blogs/cloud-computing/2014/08/quick-overview-openstack-technology/)
+  * [opensource](https://opensource.com/resources/what-is-openstack)
+  * [Official Openstack Community](https://www.openstack.org/community/)
