@@ -1,4 +1,4 @@
-Os principais canais para iniciar com OpenStack são os seguintes:
+# Os principais canais para iniciar com OpenStack são os seguintes:
 
 Para conhecer o OpenStack:
 http://www.openstack.org
@@ -31,7 +31,7 @@ https://github.com/openstack
 Aqui aonde começa toda a interação com o OpenStack:
 https://www.openstack.org/community/
 
-Os canais da comunidade Oficial OpenStack no Brasil:
+## Os canais da comunidade Oficial OpenStack no Brasil:
 
 Aqui é o primeiro local que você precisa se cadastrar, pois é onde marcamos
 todos os eventos e todo o movimento da comunidade OpenStack Brasil:
