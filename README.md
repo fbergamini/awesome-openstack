@@ -1,2 +1,3 @@
-# awesome-openstack
-Um repositório com informações interessantes sobre Openstack.
+# Lista de informações sobre Openstack
+
+## O que é o OpenStack
