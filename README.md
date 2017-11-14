@@ -14,4 +14,4 @@
 * Application Services (Serviços de Aplicação)
 * Monitoring & Metering (Monitoramento e Medição)
 
-A lista completa de projetos e suas respectivas categorias pode ser encontrada no [https://www.openstack.org/software/project-navigator](site oficial do Openstack).
+A lista completa de projetos e suas respectivas categorias pode ser encontrada no [site oficial do Openstack](https://www.openstack.org/software/project-navigator/).
