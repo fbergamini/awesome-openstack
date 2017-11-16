@@ -61,4 +61,14 @@ A lista completa de projetos e suas respectivas categorias pode ser encontrada n
 * [What is OpenStack](https://www.youtube.com/watch?v=Kfj5XiNdJN0)
 * [OpenStack Foundation Channel](https://www.youtube.com/channel/UCQ74G2gKXdpwZkXEsclzcrA)
   
-
+# Ansible
+Ansible é uma simples e poderosa ferramenta de automatização criada para gerenciar múltiplas máquinas de uma vez que pode ser utilizada junto com o OpenStack. Suas principais características são que ele a sua linguagem é bastante simples e, portanto, é possível começar a criar serviços de automação de forma fácil e rápida e utiliza SSH para se conectar com os servidores e executar as tasks.
+ ## Links (Inglês)
+ * [Full Stack Automation with Ansible and OpenStack](http://redhatstackblog.redhat.com/2016/10/13/full-stack-automation-with-ansible-and-openstack/)
+ * [OpenStack-Ansible Documentation](https://docs.openstack.org/openstack-ansible/latest/)
+ * [How to Install OpenStack Using OpenStack-Ansible](https://platform9.com/blog/install-openstack-using-openstack-ansible/)
+ ## Vídeos (Inglês)
+ * [Ansible + OpenStack 101](https://www.youtube.com/watch?v=RdAD68bDhQk)
+ * [Deploying & Operating your OpenStack Cloud with Ansible](https://www.youtube.com/watch?v=huZa-YZ20qs)
+ * [Making OpenStack-Ansible Work for You!](https://www.youtube.com/watch?v=UUe96OmCCug)
+ * [OpenStack and Ansible- Automation Born in the Cloud](https://www.youtube.com/watch?v=OaptTKpAfKQ)
