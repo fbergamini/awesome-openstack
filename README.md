@@ -14,6 +14,9 @@ O OpenStack foi criado em 2010 pela união de um projeto da Rackspace com um pro
 * [Vídeos Sobre OpenStack](#vídeos-sobre-openstack)
   * [Português](#português-1)
   * [Inglês](#inglês-1)
+* [Ansible](#ansible)
+  * [Links](#links-(inglês))
+  * [Vídeos](#vídeos-(inglês)
 
 # Projetos
 
